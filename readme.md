@@ -1,4 +1,4 @@
-# Chesse plate in AR 🧀
+# Cheese plate in AR 🧀
 
 Small test to display a cheese plate in AR 
 
